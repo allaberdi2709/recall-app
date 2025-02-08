@@ -5,7 +5,7 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
- 
+ //test comment
 
   // This widget is the root of your application.
   @override
@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const MyHomePage(title: 'Testing Flutter Demo Home Page'),
     );
   }
 }
